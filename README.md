@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @decoderrs
 - 👀 I’m interested in mern/java full stack development
-- 🌱 I’m currently learning mern stack
+- 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on mern stack project
 - 📫 How to reach me mayurbhoyarr3@gmail.com
 
